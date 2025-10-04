@@ -1,0 +1,8 @@
+Read the data set.
+Understanding of the target column and the independent column.
+Removal of appropriate words or unappropriate symbols.
+Splitting into train tax split.
+Converting words to vector.
+Training the model.
+Evaluation of the model.
+Making and Strimlit web app.
