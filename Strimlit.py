@@ -74,4 +74,3 @@ if st.button("Analyze Sentiment"):
         st.warning("Please enter some text to analyze.")
 
 st.markdown("---")
-st.write("Built with Streamlit and TensorFlow/Keras.")
