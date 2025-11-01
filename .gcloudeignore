@@ -1,0 +1,9 @@
+.git/
+.gitignore
+.ipynb_checkpoints/
+__pycache__/
+venv/
+env/
+# Exclude large development files not needed for the final app
+*.ipynb 
+news.csv
