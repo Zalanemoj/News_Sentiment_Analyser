@@ -13,4 +13,4 @@ ENV PORT 8080
 
 # Command to run the Streamlit application.
 # CRITICAL FIX: Disabling CORS and XSRF protection for Cloud Run compatibility.
-CMD ["streamlit", "run", "Strimlit.py", "--server.port", "8080", "--server.enableCORS", "false", "--server.enableXsrfProtection", "false"]
+CMD ["streamlit", "run", "app.py", "--server.port", "8080", "--server.enableCORS", "false", "--server.enableXsrfProtection", "false"]
