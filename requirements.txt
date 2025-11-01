@@ -11,3 +11,4 @@ xgboost
 bs4
 lxml
 nltk
+keras
